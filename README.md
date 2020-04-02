@@ -1,15 +1,15 @@
 # LeetCode 
-Profile : <a href = "https://leetcode.com/yrtiwari/">yrtiwari</a>
-
-This repository contains all the code of LeetCode website, which I have tried solving along with their performance <i>screenshot of <b>performance</b>.</i>
-
+<ap>This repository contains all the code of LeetCode website, which I have tried solving along with their performance <i>screenshot of <b>performance</b>.</i></p>
+<p>Profile : <a href = "https://leetcode.com/yrtiwari/">yrtiwari</a></p>
 
 
-## 30 Day LeetCode Challenge:
+
+## 30 Day LeetCode Challenge: ONGOING
 
 <ol>
   
-  <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day1/SingleNumber.java">Single Number</a></li>
+  <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day1/">Single Number</a></li>
+    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day2/">Happy Number</a></li>
   
 </ol>
 
