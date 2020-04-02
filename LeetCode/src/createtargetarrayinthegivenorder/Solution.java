@@ -1,4 +1,4 @@
-package create_target_array_in_the_given_order;
+package createtargetarrayinthegivenorder;
 
 public class Solution {
 
