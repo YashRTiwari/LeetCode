@@ -4,7 +4,7 @@
 
 
 
-## 30 Day LeetCode Challenge:
+## 30 Day LeetCode Challenge: ONGOING
 
 <ol>
   
