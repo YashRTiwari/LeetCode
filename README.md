@@ -9,7 +9,7 @@ This repository contains all the code of LeetCode website, which I have tried so
 
 <ol>
   
-  <li><a href="https://leetcode.com/problems/single-number">Single Number</a></li>
+  <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day1/SingleNumber.java">Single Number</a></li>
   
 </ol>
 
