@@ -4,4 +4,4 @@ Performance:
 <img src="screenshot.png"/>
 
 <p>Question :</p>
-<img src="question.PNG"/>
+<img src="question.png"/>
