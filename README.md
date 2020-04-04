@@ -10,6 +10,7 @@
   
   <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day1/">Single Number</a></li>
     <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day2/">Happy Number</a></li>
+    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day3/">Maximum Subarray</a></li>
   
 </ol>
 
