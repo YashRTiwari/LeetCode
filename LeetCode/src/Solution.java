@@ -2,19 +2,26 @@ import LC30DayChallenge.day3.MaximumSubarray;
 import LC30DayChallenge.day4.MoveZeroes;
 import LC30DayChallenge.day5.BestTimetoBuyandSellStock;
 import LC30DayChallenge.day6.GroupAnagram;
+import LC30DayChallenge.day7.CountElements;
 import validnumber.ValidNumber;
 
 public class Solution {
 
     public static void main(String[] args) {
 
-        groupAnagram();
+        System.out.println(countElements());
 
 //        System.out.println(calculateSolutionForMaximumSubarray());
 //        moveZores();
 //        System.out.println(Math.pow(10, 0.1));
 //        System.out.println(validNumbers());
 //        System.out.println(bestTimetoBuyandSellStock());
+    }
+
+    private static int countElements(){
+        int [] array = {1,1,2,2};
+        CountElements countElements = new CountElements();
+        return countElements.countElements(array);
     }
 
     private static int calculateSolutionForMaximumSubarray(){
