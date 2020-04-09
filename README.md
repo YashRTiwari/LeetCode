@@ -12,6 +12,10 @@
     <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day2/">Happy Number</a></li>
     <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day3/">Maximum Subarray</a></li>
    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day4/">Move Zeros</a></li>
+     <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day5/">Best Time to Buy and Sell Stock</a></li>
+   <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day6/">Group Anagram</a></li>
+   <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day7/">Count Elements</a></li>
+
 </ol>
 
 ## Problems:
