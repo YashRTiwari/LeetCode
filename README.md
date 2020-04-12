@@ -16,6 +16,9 @@
    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day6/">Group Anagram</a></li>
    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day7/">Count Elements</a></li>
    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day8/">Middle of the Linked List</a></li>
+   <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day9/">Backspace String Compare</a></li>
+   <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day10/">Min Stack</a></li>
+   <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day11/">Diameter Of Binary Tree</a></li>
 
 </ol>
 
