@@ -19,14 +19,7 @@
    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day9/">Backspace String Compare</a></li>
    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day10/">Min Stack</a></li>
    <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day11/">Diameter Of Binary Tree</a></li>
-
-</ol>
-
-## Problems:
-
-<ol>
-  
-  <li><a href="https://github.com/YashRTiwari/LeetCode/tree/master/LeetCode/src/createtargetarrayinthegivenorder" target="_blank">Create Target Array in the given order</a></li>
+     <li><a href="https://github.com/YashRTiwari/LeetCode/tree/master/LeetCode/src/createtargetarrayinthegivenorder" target="_blank">Create Target Array in the given order</a></li>
   <li><a href="https://github.com/YashRTiwari/LeetCode/tree/master/LeetCode/src/convertbinarynumber_in_al_inkedlist_to_integer" target="_blank">Convert Binary Number in a LinkedList to Integer</a></li>
   <li><a href="https://github.com/YashRTiwari/LeetCode/tree/master/LeetCode/src/FindNumberswithEvenNumberofDigits" target="_blank">Find Numbers with Even Number of Digits</a></li>
   <li><a href="https://github.com/YashRTiwari/LeetCode/tree/master/LeetCode/src/JewelsAndStone" target="_blank">Jewels And Stone</a></li>
@@ -36,4 +29,6 @@
   <li><a href="https://github.com/YashRTiwari/LeetCode/tree/master/LeetCode/src/SubtracttheProductandSumofDigitsofanInteger" target="_blank">Subtract the Product and Sum of Digits of an Integer</a></li>
   <li><a href="https://github.com/YashRTiwari/LeetCode/tree/master/LeetCode/src/TwoSums" target="_blank">Two Sums</a></li>
 
- </ol>
+</ol>
+
+
