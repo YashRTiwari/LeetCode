@@ -4,8 +4,6 @@
 
 
 
-## 30 Day LeetCode Challenge: ONGOING
-
 <ol>
   
   <li><a href="https://github.com/YashRTiwari/LeetCode/blob/master/LeetCode/src/LC30DayChallenge/day1/">Single Number</a></li>
